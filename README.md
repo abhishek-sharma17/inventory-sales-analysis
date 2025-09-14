@@ -17,7 +17,7 @@ This project analyzes sales and inventory data to identify inefficiencies in pri
 - **Profitability Trends**: Compare margins between top-performing and underperforming vendors.  
 
 ## 🔗 Deliverables
-- 📄 [PDF Report (Google Drive)]([your-drive-link-here](https://drive.google.com/file/d/1PHsW9DINwgK9v9s8qSsbRcEPG_PEjuTj/view))  
-- 📊 [Power BI Dashboard (Google Drive)]([your-drive-link-here](https://drive.google.com/file/d/132i-pNiTUQig1DDX8lotu9mRxxR7J6_m/view?usp=drivesdk))  
+- 📄 [PDF Report (Google Drive)](https://drive.google.com/file/d/1PHsW9DINwgK9v9s8qSsbRcEPG_PEjuTj/view)  
+- 📊 [Power BI Dashboard (Google Drive)](https://drive.google.com/file/d/132i-pNiTUQig1DDX8lotu9mRxxR7J6_m/view?usp=drivesdk)
 
 ---
